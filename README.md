@@ -1,2 +1,2 @@
 # vending_machine_project
-vending_machine_project_solidity
+vending machine project done with truffle and deployed to rinkeby testnet
